@@ -1,0 +1,3 @@
+URL="https://example.com" # the URL where the Telegram bot is made available; must be public
+PORT=8123
+TELEGRAM_BOT_TOKEN="12345:abcde"

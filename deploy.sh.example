@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+scp bin/init.sql USER@IP:PATH/init.sql
+scp bin/.config.example USER@IP:PATH/.config.example
+scp bin/matheque-amd64-linux USER@IP:PATH/matheque-amd64-linux

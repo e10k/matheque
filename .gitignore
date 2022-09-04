@@ -1,0 +1,8 @@
+.idea
+data/*
+.config
+.DS_Store
+bin/*
+deploy.sh
+matheque.log
+
